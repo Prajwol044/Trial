@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TigerSoccerClub
+namespace Barcelona
 {
     class Program
     {
@@ -22,7 +22,7 @@ namespace TigerSoccerClub
 
         static void Main(string[] args)
         {
-            int i = 0;
+            int i = 1;
             double total = 0;
             int jerseyamt = 100;
             String Name = "";
